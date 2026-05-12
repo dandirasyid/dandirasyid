@@ -54,3 +54,7 @@ I'm a passionate web developer with a strong interest in building modern and eff
 <p align="left">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dandirasyid&label=Profile%20views&color=0e75b6&style=flat" alt="dandirasyid" />
+</p>
